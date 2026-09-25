@@ -15,10 +15,13 @@ I am an IT student with a strong logical foundation in database architectures an
 ## 🛠️ Tech Stack & Skills
 
 ### Data & Analytics
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+[![MySQL](https://shields.io)](https://mysql.com)
+[![PostgreSQL](https://shields.io)](https://postgresql.org)
+[![Excel](https://shields.io)](https://microsoft.com)
 
 ### Core IT Strengths
-<img src="https://shields.io" /> <img src="https://shields.io" />
+[![Git](https://shields.io)](https://git-scm.com)
+[![GitHub](https://shields.io)](https://github.com)
 
 ---
 
