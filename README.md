@@ -13,13 +13,12 @@ I am an IT student with a strong logical foundation in database architectures an
 ---
 
 ## 🛠️ Tech Stack & Skills
+
 ### Data & Analytics
-- **SQL:** Querying, Data Cleaning, Aggregate Functions, Table Joins (PostgreSQL / MySQL)
-- **Spreadsheets:** Microsoft Excel (Pivot Tables, Data Formatting)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ### Core IT Strengths
-- **Version Control:** Git & GitHub
-- **Logic & Programming:** Database Architecture, Computational Logic
+<img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
