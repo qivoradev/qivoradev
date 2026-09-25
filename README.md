@@ -1,5 +1,7 @@
 # 💫 About Me:
 “IT student with a strong logical foundation in database architectures, shifting focus toward Data Analytics.”
+![Snake Animation](https://githubusercontent.com)
+
 
 
 # 💻 Tech Stack:
