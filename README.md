@@ -1,9 +1,10 @@
 # 💫 Tentang Saya:
-Lulusan Baru Teknologi Informasi dengan fondasi analitis yang kuat, berfokus mengembangkan karier di bidang Analisis Data untuk mentransformasikan data menjadi wawasan bisnis yang berdampak.
+“Lulusan Baru Teknologi Informasi dengan fondasi analitis yang kuat, berfokus mengembangkan karier di bidang Analisis Data untuk mentransformasikan data menjadi wawasan bisnis yang berdampak.”
 
 ---
 
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+# 💻 Perangkat & Keterampilan (Tech Stack):
+`📊 Microsoft Excel` &nbsp; `🗄️ SQL` &nbsp; `📈 Looker Studio` &nbsp; `🐍 Python` &nbsp; `🌐 JavaScript` &nbsp; `🔀 Git` &nbsp; `🐙 GitHub` &nbsp; `⚛️ React` &nbsp; `🎨 Tailwind CSS`
 
 ---
 
