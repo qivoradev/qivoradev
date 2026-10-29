@@ -1,5 +1,5 @@
 # 💫 Tentang Saya:
-"Lulusan Baru Teknologi Informasi dengan fondasi analitis yang kuat, berfokus mengembangkan karier di bidang Analisis Data untuk mentransformasikan data menjadi wawasan bisnis yang berdampak."
+Lulusan Baru Teknologi Informasi dengan fondasi analitis yang kuat, berfokus mengembangkan karier di bidang Analisis Data untuk mentransformasikan data menjadi wawasan bisnis yang berdampak.
 
 ---
 
