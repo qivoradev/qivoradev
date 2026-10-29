@@ -1,27 +1,17 @@
-# 💫 About Me:
-“IT student with a strong logical foundation in database architectures, shifting focus toward Data Analytics.”
-
-
-
-
-
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+# 💫 Tentang Saya:
+“Lulusan Baru Teknologi Informasi dengan fondasi analitis yang kuat, berfokus mengembangkan karier di bidang Analisis Data untuk mentransformasikan data menjadi wawasan bisnis yang berdampak.”
 
 ---
 
-## 🎯 Career Goal
-To establish a professional career in data analytics, leveraging data-driven insights to optimize business performance and drive commercial growth.
+# 💻 Perangkat & Keterampilan (Tech Stack):
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 📈 Featured Data Projects
-*📌 Ongoing projects below will showcase my capability in handling real-world business data.*
-
-🕒 *My first data analytics project is currently in progress. Stay tuned!*
+## 🎯 Tujuan Karier
+Membangun karier profesional sebagai *Data Analyst*, memanfaatkan pendekatan berbasis data untuk mengoptimalkan performa bisnis, meningkatkan efisiensi operasional, dan mendorong pertumbuhan komersial.
 
 ---
 [![](https://komarev.com/ghpvc/?username=qivoradev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Dibuat dengan bangga menggunakan GPRM ( https://gprm.itsvg.in ) -->
