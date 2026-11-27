@@ -2,7 +2,7 @@
 
 Lulusan S1 Teknologi Informasi (UMY) yang berfokus pada **Data Analytics**—mengolah data mentah menjadi *insight* bisnis dan dashboard interaktif untuk mendukung pengambilan keputusan. Saat ini terbuka untuk peluang peran **Data Analyst** (*full-time* maupun *internship*, *remote* atau relokasi).
 
-🌐 **Portfolio:** [portobyiqbaldwifathonah.vercel.app](https://portobyiqbaldwifathonah.vercel.app/) &nbsp;|&nbsp; 📧 **Email:** iqbalfathonah20@gmail.com
+🌐 **Portfolio:** [portobyiqbaldwifathonah.vercel.app](https://portobyiqbaldwifathonah.vercel.app/) &nbsp;|&nbsp; 
 
 ---
 
