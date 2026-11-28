@@ -1,8 +1,8 @@
 ### 👋 Tentang Saya
 
-Lulusan S1 Teknologi Informasi (UMY) yang berfokus pada **Data Analytics**—mengolah data mentah menjadi *insight* bisnis dan dashboard interaktif untuk mendukung pengambilan keputusan. Saat ini terbuka untuk peluang peran **Data Analyst** (*full-time* maupun *internship*, *remote* atau relokasi).
+Lulusan S1 Teknologi Informasi Universitas Muhammadiyah Yogyakarta (UMY) yang berfokus pada **Data Analytics**. Terbiasa mengolah data mentah menjadi *insight* bisnis dan *dashboard* interaktif untuk mendukung pengambilan keputusan. Saat ini terbuka untuk peluang peran **Data Analyst** (*internship* maupun *full-time*, *remote* atau relokasi).
 
-🌐 **Portfolio:** [portobyiqbaldwifathonah.vercel.app](https://portobyiqbaldwifathonah.vercel.app/) &nbsp;|&nbsp; 
+🌐 **Portofolio:** [iqbaldwifathonah.vercel.app](https://iqbaldwifathonah.vercel.app)
 
 ---
 
