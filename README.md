@@ -19,6 +19,6 @@ Lulusan S1 Teknologi Informasi Universitas Muhammadiyah Yogyakarta (UMY) yang be
 
 ### 📊 Proyek Unggulan
 
-- **[Global Layoffs Analysis (2020–2026)](https://github.com/qivoradev/global-layoffs-analysis-2020-2026)** — *Data cleaning* SQL, EDA, dan dashboard Looker Studio yang memetakan 947K+ karyawan terdampak PHK di 62 negara.
-- **[Pizza Sales Performance & Operational Analytics](https://github.com/qivoradev/pizza-sales-performance-dashboard)** — Analisis omzet tahunan ($817K+, 21K+ transaksi), pola jam sibuk operasional, dan performa menu di Excel & Looker Studio.
-- **NYC Traffic Safety Analysis (2021–2023)** — Analisis 238K+ data kecelakaan lalu lintas menggunakan Excel PivotTables, PivotCharts, dan Data Modeling.
+* **[Global Layoffs Analysis (2020-2026)](link-repo-layoffs-kamu):** *Data cleaning* SQL, EDA, dan *dashboard* Looker Studio yang memetakan 947K+ karyawan terdampak PHK di 62 negara.
+* **[Pizza Sales Performance & Operational Analytics](https://github.com/qivoradev/pizza-sales-performance-dashboard):** Analisis omzet tahunan ($817K+, 21K+ transaksi), pola jam sibuk operasional, dan performa menu di Excel & Looker Studio.
+* **[NYC Traffic Safety Analysis (2021-2023)](https://github.com/qivoradev/nyc-traffic-collision-analysis):** Analisis 238K+ data kecelakaan lalu lintas menggunakan Excel PivotTables, PivotCharts, dan Data Modeling.
